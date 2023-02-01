@@ -1,3 +1,3 @@
 # classpractice1
-hi bryn!
-wowza
+bryn is a woman in STEM
+
